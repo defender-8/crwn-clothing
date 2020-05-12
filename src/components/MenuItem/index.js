@@ -1,5 +1,5 @@
 import React from 'react';
-import './menu-item.style.scss';
+import './styles.scss';
 
 function MenuItem({ title, imageUrl, size }) {
   return (
